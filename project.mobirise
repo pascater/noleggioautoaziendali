@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#ae9647"
+        "#ae9647",
+        "#bc940e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -502,7 +503,7 @@
               "text-align": "left"
             },
             "B": {
-              "color": "#b1a374"
+              "color": "#bc940e"
             }
           },
           "_name": "header9",
